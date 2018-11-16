@@ -1,0 +1,72 @@
+{
+  "data" : [
+    {
+      "text" : "How late is it in Berlin right now?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"time\"",
+          "start" : 4,
+          "end" : 8
+        },
+        {
+          "entity" : "location",
+          "value" : "\"Berlin\"",
+          "start" : 18,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "How's the weather in rome?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"weather\"",
+          "start" : 10,
+          "end" : 17
+        },
+        {
+          "entity" : "location",
+          "value" : "\"rome\"",
+          "start" : 21,
+          "end" : 25
+        }
+      ]
+    },
+    {
+      "text" : "What's the time in Rome?",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"time\"",
+          "start" : 11,
+          "end" : 15
+        },
+        {
+          "entity" : "location",
+          "value" : "\"Rome\"",
+          "start" : 19,
+          "end" : 23
+        }
+      ]
+    },
+    {
+      "text" : "what's the weather in Rome",
+      "entities" : [
+        {
+          "entity" : "intent",
+          "value" : "\"weather\"",
+          "start" : 11,
+          "end" : 18
+        },
+        {
+          "entity" : "location",
+          "value" : "\"Rome\"",
+          "start" : 22,
+          "end" : 26
+        }
+      ]
+    }
+  ]
+}

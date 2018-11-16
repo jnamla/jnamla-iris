@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip iris.zip iris/app.json iris/entities/*.json iris/actions.json iris/stories.json iris/expressions.json",
+  "data" : {
+    "name" : "iris",
+    "description" : "A slack bot implementation",
+    "lang" : "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "intent",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "intent",
+    "values" : [
+      {
+        "value" : "time",
+        "expressions" : [
+          "late",
+          "time"
+        ]
+      },
+      {
+        "value" : "weather",
+        "expressions" : [
+          "weather"
+        ]
+      },
+      {
+        "value" : "weather",
+        "expressions" : [
+          "weather"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}
